@@ -1,5 +1,5 @@
 const config = {
-    url: "http://localhost:2569/springbootbookapi/"
+    url: "http://localhost:2569"
 }
 
 export default config;
